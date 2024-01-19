@@ -13,6 +13,8 @@ body{
     color: black;
     
 }
+
+
 #main{ 
     display: flex;
 }
@@ -25,7 +27,7 @@ body{
     flex-direction: column;
     width: 50%;
     margin-right: 100px;
-    margin-left: 20%;
+    margin: auto;
     text-align: justify;
 }
 h2{
@@ -183,6 +185,8 @@ figcaption{
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin: auto;
+    margin-top: 0;
 }
 #cv{
     margin-top: 20px;
